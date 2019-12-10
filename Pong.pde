@@ -140,7 +140,7 @@ void title_screen(){
   // Title
   textAlign(CENTER,CENTER);
   textSize(100);
-  text("Let play \nPING PONG",width/2,height*0.35);
+  text("Let's play \nPING PONG",width/2,height*0.35);
   textSize(50);
   text("S : START      P : PAUSE",width/2,height*0.8);
 }
